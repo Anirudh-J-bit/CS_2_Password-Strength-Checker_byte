@@ -1,0 +1,4 @@
+Inputs :
+1)Enter password: Arithmatrix2006
+2)Enter password: abcdef
+3)Enter password: ANIRUDHJ04

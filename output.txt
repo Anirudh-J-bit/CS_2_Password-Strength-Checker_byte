@@ -1,0 +1,22 @@
+Outputs :
+1)Score: 5 / 6
+  Strength: Moderate
+
+  Reasons:
+  No special character
+
+2)Score: 1 / 6
+  Strength: Weak
+
+  Reasons:
+  Password is shorter than 8 characters
+  No uppercase letter
+  No number
+  No special character
+
+3)Score: 3 / 6
+  Strength: Moderate
+
+  Reasons:
+  No lowercase letter
+  No special character
